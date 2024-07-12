@@ -1,0 +1,15 @@
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\bin\Debug\net7.0\CountTheDigits.exe
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\bin\Debug\net7.0\CountTheDigits.deps.json
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\bin\Debug\net7.0\CountTheDigits.runtimeconfig.json
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\bin\Debug\net7.0\CountTheDigits.dll
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\bin\Debug\net7.0\CountTheDigits.pdb
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.csproj.AssemblyReference.cache
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.AssemblyInfoInputs.cache
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.AssemblyInfo.cs
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.csproj.CoreCompileInputs.cache
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.dll
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\refint\CountTheDigits.dll
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.pdb
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\CountTheDigits.genruntimeconfig.cache
+C:\Users\matej\source\repos\CountTheDigits\CountTheDigits\obj\Debug\net7.0\ref\CountTheDigits.dll
